@@ -1,0 +1,60 @@
+Build started at 2020-12-28T13:06:28.330997
+Main binary: /usr/bin/python
+Build Options: -Db_lto=true -Db_pie=true -Dprefix=/usr -Dlibexecdir=lib -Dsbindir=bin -Dauto_features=enabled -Dbuildtype=plain -Dwrap_mode=nodownload
+Python system: Linux
+The Meson build system
+Version: 0.56.0
+Source dir: /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/instamenu-schemas
+Build dir: /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build
+Build type: native build
+Project name: instamenu-schemas
+Project version: 3.38.0
+None of 'CC' are defined in the environment, not changing global flags.
+Using 'CFLAGS' from environment with value: '-march=x86-64 -mtune=generic -O2 -pipe -fno-plt'
+Using 'LDFLAGS' from environment with value: '-Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now'
+Using 'CPPFLAGS' from environment with value: '-D_FORTIFY_SOURCE=2'
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.c -o /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.exe -march=x86-64 -mtune=generic -O2 -pipe -fno-plt -D_FORTIFY_SOURCE=2 -pipe -D_FILE_OFFSET_BITS=64 -Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.exe
+C compiler for the host machine: cc (gcc 10.2.0 "cc (GCC) 10.2.0")
+C linker for the host machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+None of 'CC' are defined in the environment, not changing global flags.
+Using 'CFLAGS' from environment with value: '-march=x86-64 -mtune=generic -O2 -pipe -fno-plt'
+Using 'LDFLAGS' from environment with value: '-Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now'
+Using 'CPPFLAGS' from environment with value: '-D_FORTIFY_SOURCE=2'
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity testing C compiler: cc
+Is cross compiler: False.
+None of 'CC_LD' are defined in the environment, not changing global flags.
+Sanity check compiler command line: cc /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.c -o /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.exe -march=x86-64 -mtune=generic -O2 -pipe -fno-plt -D_FORTIFY_SOURCE=2 -pipe -D_FILE_OFFSET_BITS=64 -Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /mnt/500GB/.gitlabs/instamenu-schemas/PKGBUILD/src/build/meson-private/sanitycheckc.exe
+C compiler for the build machine: cc (gcc 10.2.0 "cc (GCC) 10.2.0")
+C linker for the build machine: cc ld.bfd 2.35.1
+None of 'AR' are defined in the environment, not changing global flags.
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Host machine cpu family: x86_64
+Host machine cpu: x86_64
+Target machine cpu family: x86_64
+Target machine cpu: x86_64
+Message: Building instamenu-schemas 3.38.0
+Configuring instamenu-schemas.pc using configuration
+Program glib-mkenums found: YES (/usr/bin/glib-mkenums)
+
+instamenu-schemas/meson.build:46:0: ERROR: Non-existent build file 'headers/meson.build'
