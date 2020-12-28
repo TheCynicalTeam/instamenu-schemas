@@ -24,5 +24,6 @@ endforeach
 install_data(generated_schemas, install_dir: schemasdir)
 
 install_data(
+  'instamenu-schemas.convert',
   install_dir: join_paths(datadir, 'GConf', 'gsettings'),
 )
