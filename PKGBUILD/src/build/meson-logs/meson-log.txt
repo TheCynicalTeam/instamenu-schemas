@@ -1,4 +1,4 @@
-Build started at 2020-12-28T13:06:28.330997
+Build started at 2020-12-28T13:07:28.792376
 Main binary: /usr/bin/python
 Build Options: -Db_lto=true -Db_pie=true -Dprefix=/usr -Dlibexecdir=lib -Dsbindir=bin -Dauto_features=enabled -Dbuildtype=plain -Dwrap_mode=nodownload
 Python system: Linux
@@ -57,4 +57,4 @@ Message: Building instamenu-schemas 3.38.0
 Configuring instamenu-schemas.pc using configuration
 Program glib-mkenums found: YES (/usr/bin/glib-mkenums)
 
-instamenu-schemas/meson.build:46:0: ERROR: Non-existent build file 'headers/meson.build'
+instamenu-schemas/schemas/meson.build:17:2: ERROR: File org.cynicalteam.instamenu.preferences.gschema.in does not exist.
