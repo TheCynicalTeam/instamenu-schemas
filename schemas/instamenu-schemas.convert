@@ -1,0 +1,10 @@
+# From org.gnome.desktop.thumbnailers
+[org.cynicalteam.instamenu.preferences]
+editor = code
+terminal = alacritty
+webbrowser = firefox
+filemanager = nemo
+mailreader = thunderbird
+texteditor = code
+hypervisor = virt-manager
+gitbrowser = gitkraken
