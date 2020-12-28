@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/org/cynicalteam/instamenu/preferences/" id="org.cynicalteam.instamenu.preferences">
+    <key type="s" name="editor">
+      <default>'code'</default>
+      <summary>Editor for instamenu</summary>
+      <description>Editor for instamenu</description>
+    </key>
+    <key type="s" name="terminal">
+      <default>'alacritty'</default>
+      <summary>Terminal for instamenu</summary>
+      <description>Terminal for instamenu</description>
+    </key>
+    <key type="s" name="webbrowser">
+      <default>'firefox'</default>
+      <summary>Web Browser for instamenu</summary>
+      <description>Web Browser for instamenu</description>
+    </key>
+    <key type="s" name="filemanager">
+      <default>'nemo'</default>
+      <summary>File Manager for instamenu</summary>
+      <description>File Manager for instamenu</description>
+    </key>
+    <key type="s" name="mailreader">
+      <default>'thunderbird'</default>
+      <summary>Mail Reader for instamenu</summary>
+      <description>Mail Reader for instamenu</description>
+    </key>
+    <key type="s" name="texteditor">
+      <default>'code'</default>
+      <summary>Text Editor for instamenu</summary>
+      <description>Text Editor for instamenu</description>
+    </key>
+    <key type="s" name="hypervisor">
+      <default>'virt-manager'</default>
+      <summary>Hypervisor for instamenu</summary>
+      <description>Hypervisor for instamenu</description>
+    </key>
+    <key type="s" name="gitbrowser">
+      <default>'gitkraken'</default>
+      <summary>Git Browser for instamenu</summary>
+      <description>Git Browser for instamenu</description>
+    </key>
+  </schema>
+</schemalist>
