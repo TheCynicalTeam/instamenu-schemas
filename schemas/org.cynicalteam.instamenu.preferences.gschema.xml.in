@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
   <schema path="/org/cynicalteam/instamenu/preferences/" id="org.cynicalteam.instamenu.preferences">
-    <key type="s" name="editor">
-      <default>'code'</default>
-      <summary>Editor for instamenu</summary>
-      <description>Editor for instamenu</description>
-    </key>
     <key type="s" name="terminal">
       <default>'alacritty'</default>
       <summary>Terminal for instamenu</summary>

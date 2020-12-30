@@ -1,6 +1,5 @@
-# From org.gnome.desktop.thumbnailers
+# From org.cynicalteam.instamenu.preferences
 [org.cynicalteam.instamenu.preferences]
-editor = code
 terminal = alacritty
 webbrowser = firefox
 filemanager = nemo
