@@ -22,7 +22,7 @@
       <description>Mail Reader for instamenu</description>
     </key>
     <key type="s" name="texteditor">
-      <default>'code'</default>
+      <default>'vim'</default>
       <summary>Text Editor for instamenu</summary>
       <description>Text Editor for instamenu</description>
     </key>
