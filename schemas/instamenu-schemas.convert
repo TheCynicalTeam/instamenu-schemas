@@ -1,9 +1,9 @@
 # From org.cynicalteam.instamenu.preferences
 [org.cynicalteam.instamenu.preferences]
-terminal = alacritty
+terminal = kitty
 webbrowser = firefox
 filemanager = nemo
 mailreader = thunderbird
-texteditor = code
+texteditor = emacs
 hypervisor = virt-manager
-gitbrowser = gitkraken
+gitbrowser = guitar
