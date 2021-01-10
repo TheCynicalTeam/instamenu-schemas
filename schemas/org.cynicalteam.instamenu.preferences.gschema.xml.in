@@ -2,7 +2,7 @@
 <schemalist>
   <schema path="/org/cynicalteam/instamenu/preferences/" id="org.cynicalteam.instamenu.preferences">
     <key type="s" name="terminal">
-      <default>'alacritty'</default>
+      <default>'kitty'</default>
       <summary>Terminal for instamenu</summary>
       <description>Terminal for instamenu</description>
     </key>
@@ -22,7 +22,7 @@
       <description>Mail Reader for instamenu</description>
     </key>
     <key type="s" name="texteditor">
-      <default>'vim'</default>
+      <default>'emacs'</default>
       <summary>Text Editor for instamenu</summary>
       <description>Text Editor for instamenu</description>
     </key>
@@ -32,7 +32,7 @@
       <description>Hypervisor for instamenu</description>
     </key>
     <key type="s" name="gitbrowser">
-      <default>'gitkraken'</default>
+      <default>'guitar'</default>
       <summary>Git Browser for instamenu</summary>
       <description>Git Browser for instamenu</description>
     </key>
