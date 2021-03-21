@@ -32,7 +32,7 @@
       <description>Hypervisor for instamenu</description>
     </key>
     <key type="s" name="gitbrowser">
-      <default>'guitar'</default>
+      <default>'lazygit'</default>
       <summary>Git Browser for instamenu</summary>
       <description>Git Browser for instamenu</description>
     </key>

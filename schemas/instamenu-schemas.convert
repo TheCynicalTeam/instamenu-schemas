@@ -6,4 +6,4 @@ filemanager = nemo
 mailreader = thunderbird
 texteditor = emacs
 hypervisor = virt-manager
-gitbrowser = guitar
+gitbrowser = lazygit
