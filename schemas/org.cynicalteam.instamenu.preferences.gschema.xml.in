@@ -7,7 +7,7 @@
       <description>Terminal for instamenu</description>
     </key>
     <key type="s" name="webbrowser">
-      <default>'firefox'</default>
+      <default>'vivaldi-stable'</default>
       <summary>Web Browser for instamenu</summary>
       <description>Web Browser for instamenu</description>
     </key>

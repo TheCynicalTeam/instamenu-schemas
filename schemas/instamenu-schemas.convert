@@ -1,7 +1,7 @@
 # From org.cynicalteam.instamenu.preferences
 [org.cynicalteam.instamenu.preferences]
 terminal = kitty
-webbrowser = firefox
+webbrowser = vivaldi-stable
 filemanager = nemo
 mailreader = thunderbird
 texteditor = emacs
