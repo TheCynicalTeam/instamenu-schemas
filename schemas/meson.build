@@ -1,5 +1,5 @@
 schemas = [
-  'org.cynicalteam.instamenu.preferences.gschema.xml',
+  'org.therepoclub.instamenu.preferences.gschema.xml',
 ]
 
 conf = configuration_data()

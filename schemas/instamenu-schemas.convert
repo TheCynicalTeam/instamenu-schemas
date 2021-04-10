@@ -1,5 +1,5 @@
-# From org.cynicalteam.instamenu.preferences
-[org.cynicalteam.instamenu.preferences]
+# From org.therepoclub.instamenu.preferences
+[org.therepoclub.instamenu.preferences]
 terminal = kitty
 webbrowser = vivaldi-stable
 filemanager = nemo

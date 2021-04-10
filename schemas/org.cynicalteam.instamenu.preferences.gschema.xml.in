@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schemalist>
-  <schema path="/org/cynicalteam/instamenu/preferences/" id="org.cynicalteam.instamenu.preferences">
+  <schema path="/org/therepoclub/instamenu/preferences/" id="org.therepoclub.instamenu.preferences">
     <key type="s" name="terminal">
       <default>'kitty'</default>
       <summary>Terminal for instamenu</summary>
