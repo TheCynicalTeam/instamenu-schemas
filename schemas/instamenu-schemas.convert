@@ -4,6 +4,6 @@ terminal = kitty
 webbrowser = vivaldi-stable
 filemanager = nemo
 mailreader = thunderbird
-texteditor = gvim
+texteditor = nvim-qt
 hypervisor = virt-manager
 gitbrowser = lazygit

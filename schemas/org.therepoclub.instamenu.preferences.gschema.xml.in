@@ -2,7 +2,7 @@
 <schemalist>
   <schema path="/org/therepoclub/instamenu/preferences/" id="org.therepoclub.instamenu.preferences">
     <key type="s" name="terminal">
-      <default>'kitty'</default>
+      <default>'alacritty'</default>
       <summary>Terminal for instamenu</summary>
       <description>Terminal for instamenu</description>
     </key>
@@ -22,7 +22,7 @@
       <description>Mail Reader for instamenu</description>
     </key>
     <key type="s" name="texteditor">
-      <default>'gvim'</default>
+      <default>'nvim-qt'</default>
       <summary>Text Editor for instamenu</summary>
       <description>Text Editor for instamenu</description>
     </key>
